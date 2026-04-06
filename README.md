@@ -1,5 +1,3 @@
-# NOI-Notes
-Notes for NOI
+# PersonalNotesForNOI
 
-
-**I'm just a high school student, amateur in OI**
+Everything about NOI will be stored here.
